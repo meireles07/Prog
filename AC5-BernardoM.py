@@ -1,5 +1,11 @@
 import random
 
+"""
+AC5 Victor Machado, programação estruturada
+Bernardo Meireles
+Jogo
+"""
+
 def main():
     vida_a = 100
     att_a = random.randint(10, 20) 
